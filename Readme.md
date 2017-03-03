@@ -3,6 +3,14 @@
 
 ## Public Cloud Platform Related Issues
 
+### AWS Outage
+
+S3 went down due to operator error, knock on effect for other services. Common theme recovery took longer
+than expected.
+
+* https://aws.amazon.com/message/41926/
+
+
 ### Xero AWS issues
 
 * https://www.xero.com/blog/2016/11/bumps-in-the-road-and-what-were-doing-about-them/
